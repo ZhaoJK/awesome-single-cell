@@ -1,4 +1,7 @@
-## CellphoneDB 
+
+
+## CellphoneDB {:cellphonedb}
+ 
 Avaliable: <python> update v4.1.0 2023-03-09  
 [Github source](https://github.com/Teichlab/cellphonedb)    
 [Web interface](https://www.cellphonedb.org/)   
@@ -10,7 +13,8 @@ CellphoneDB database is a publicly available repository of curated receptors, li
 
 The database can be used to search for a particular ligand/receptor or in combination with the tool to interrogate your own single-cell transcriptomics data.  
 
-Liana  
+## Liana  {:liana}  
+
 Avaliable: <python, R>  
 [Github source](https://github.com/saezlab/liana-py)   
    
