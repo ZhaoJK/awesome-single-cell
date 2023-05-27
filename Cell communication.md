@@ -2,7 +2,8 @@
 
 ## CellphoneDB {:cellphonedb}
  
-Avaliable: <python> update v4.1.0 2023-03-09  
+Avaliable: <python, R, terminal>  
+update v4.1.0 2023-03-09    
 [Github source](https://github.com/Teichlab/cellphonedb)    
 [Web interface](https://www.cellphonedb.org/)   
 [Pipy](https://pypi.org/project/CellphoneDB/)   
