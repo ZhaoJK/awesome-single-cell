@@ -3,8 +3,13 @@
   \<terminal\>
 [Github source](https://github.com/ncbi/sra-tools/wiki)  
 
+## Trim Galore  0.6.5 {:trim_galore}
 
+\<terminal, Bioconda\> 
+[Github source](https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md)
+[babraham bioinformat](https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/)
 
+Trim Galore is a wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data.
 
 ## FASTX-Toolkit {:fastq-tooklit}  
 \<terminal\>  
