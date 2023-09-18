@@ -20,3 +20,7 @@ SingleR leverages reference transcriptomic datasets of pure cell types to infer 
 [Cell markers](https://www.celltypist.org/encyclopedia/Immune/v2#)  
 [Online GUI](https://www.celltypist.org/)  
 Celltypist is an automated cell type annotation tool for scRNA-seq datasets on the basis of logistic regression classifiers optimized by the stochastic gradient descent algorithm. Celltypist provides several different models for predictions, with a current focus on immune sub-populations, in order to assist in the accurate classification of different cell types and subtypes.
+- **scSorter** - [R] 
+[Github source](https://github.com/cran/scSorter/tree/master)  
+The scSorter package implements the semi-supervised cell type assignment algorithm described in "scSorter: assigning cells to known cell types according to known marker genes". This algorithm assigns cells to known cell types, assuming that the identities of marker genes are given but the exact expression levels of marker genes are unavailable. This vignette will illustrate the steps to apply the algorithm to single-cell RNA sequencing (scRNA-seq) data.
+
