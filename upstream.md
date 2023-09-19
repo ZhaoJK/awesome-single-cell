@@ -12,6 +12,9 @@
 - [Rsubread/Subread](#rsubreadsubread)
   - [Featurecounts](#featurecounts)
 
+### Snakeflow 
+https://snakepipes.readthedocs.io/en/stable/
+snakePipes are pipelines built using snakemake and python for the analysis of epigenomic datasets.
 
 
 ### SRA Toolkit 3.0.5  
