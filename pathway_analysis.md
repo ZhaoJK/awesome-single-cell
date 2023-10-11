@@ -33,9 +33,9 @@ Key features:
  + Extensive graphics controls, including glyph and edge attributes, graph layout and sub-pathway highlight;  
  + SBGN pathway data manipulation, processing, extraction and analysis.
 
-Supplementary Table 3. Comparison between SBGNview and other publicly available pathway based data visualization tools.
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+[Supplementary Table 3. Comparison between SBGNview and other publicly available pathway based data visualization tools.](https://doi.org/10.1093/bioinformatics/btab793)  
 |Tool|Description|Pathway Supported|Graph Style|*Full Graphic Output|Data Download|#Data Mapping|Data Integration|Automated Analysis|Interface|OS|
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 |SBGNview|Data mapping, integration, visualization and analysis|Major pathway databases (5200 reference pathways, 3000 species) and custom SBGN pathways|SBGN|Yes|Yes|Any data mappable|Strong|Yes|R/Bioconductor|Multiple|
 |Pathview|Data mapping, integration and visualization|KEGG (all pathways, species, KO)|KEGG, Graphviz|Yes|Yes|Any data mappable|Strong|Yes|R/Bioconductor|Multiple|
 |ChiBE|Pathway editing, visualization|BioPAX,  basic SIF format|Compound graphs, SBGN|No|Yes|Gene and compound data|Limited|No|Java GUI|Multiple|
@@ -49,3 +49,4 @@ Supplementary Table 3. Comparison between SBGNview and other publicly available 
 |Reactome Analysis Tools|Map and visualize data|Reactome|Reactome|Yes|Yes|Gene and compound data|Limited|No|Web GUI|Multiple|
 |VANTED|Extendable network visualisation and analysis tool|KEGG, MetaCrop, RIMAS |Common network exchange formats including SBML, BioPAX, KGML, SBGN etc (Add-on required).|Yes|Yes|Experimental data|Limited|No|Java GUI|Multiple|
 |VisANT|Visualization, editing, prediction and construction|KEGG|Compound graphs|No|Yes|Gene data|No|Yes|Java GUI and command-line|Multiple|
+
