@@ -29,3 +29,6 @@ The scSorter package implements the semi-supervised cell type assignment algorit
 - **ScType** - [R] 
 - [Github source](https://github.com/IanevskiAleksandr/sc-type) 
 ScType a computational method for automated selection of marker genes based merely on scRNA-seq data. The open-source portal (http://sctype.app) provides an interactive web-implementation of the method.
+
+- **PopV** - 
+- [https://github.com/YosefLab/PopV] 
